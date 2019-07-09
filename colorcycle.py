@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# ------ColorCycle Version 1.1--------
+# ------ColorCycle Version 1.2--------
 #This script replaces all Hex color values in a file or string with a new value based on various methods of modulation.
 #    Arguments:
 #        Select string or file mode     [-s | -f] {string or file path : string}
